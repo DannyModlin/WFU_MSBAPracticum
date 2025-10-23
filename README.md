@@ -13,3 +13,7 @@ Peter Christie  Peter.Christie@sas.com
 Case Study word document uploaded to GitHub.
 Data file for case study uploaded to GitHub.
 Instructions to access Viya For Learners uploaded to GitHub.
+
+### 10/23/2025
+Visual Forecasting folder added. This contains the course materials for the Visual Forecasting course and will assist you with using Model Studio within SAS Viya to perform time series analysis. The data reference in the course is already loaded into memory within Viya for Learners. To locate this data, use the search bar when browsing to add data. Make sure that the dropdown is set to AVAILABLE. Searching look will return the data set containing the primary time series elements. Searching LG will return the other data sets that are referenced within the course.
+
